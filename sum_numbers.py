@@ -12,5 +12,5 @@ def main():
 	sum_ = first + second
 	print(f"{first} + {second} = {sum_}")
 
-if __name__ == "__main__"
+if __name__ == "__main__":
 	main()
