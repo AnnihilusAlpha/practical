@@ -1,5 +1,5 @@
 # practical
 
-parameterize (java)
-javac Add.java
-java Add %first% %second%
+parameterize (java) </br>
+javac Add.java </br>
+java Add %first% %second% </br>
