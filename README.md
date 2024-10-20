@@ -1,2 +1,3 @@
 # practical
-Practical
+javac Add.java
+java Add %first% %second%
