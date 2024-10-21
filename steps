@@ -1,0 +1,21 @@
+sudo su
+
+yum update -y
+
+yum install httpd git
+
+git clone https://github.com/Alpha0705/Weather-App.git
+
+cd Weather
+
+mv * /var/www/html/
+
+cd /var/www/html/
+
+systemctl enable httpd
+
+systemctl start httpd
+
+copy the ipaddress on the edge browser
+
+
